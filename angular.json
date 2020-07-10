@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spot-it-websockets"
+    }
+  },
+  "defaultProject": "spot-it-websockets",
+  "cli": {
+    "analytics": "ba73ed95-8b34-4eff-b617-03e2935aae4f"
+  }
 }
